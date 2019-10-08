@@ -1,0 +1,16 @@
+Class: Vehicle
+Object #1: Tesla
+
+Attributes:
+color (string): "White"
+trim (string): "AWD"
+model (string): "Model 3"
+batterySize (integer): 70
+features (array): [..., ..., ...]
+gas-powered (boolean): false
+
+Methods:
+addAutopilot (append feature into features array)
+addFullSelfDriving (append feature into features array)
+milesPerHourAfterSixtySeconds (divide speed by hours)
+changeColor (changes the color attribute)
